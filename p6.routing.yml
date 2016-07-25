@@ -1,0 +1,7 @@
+p6.config:
+  path: '/admin/config/p6/config'
+  defaults:
+    _form: '\Drupal\p6\Form\p6SettingsForm'
+    _title: 'P6 module configuration'
+  requirements:
+    _permission: 'administer site configuration'

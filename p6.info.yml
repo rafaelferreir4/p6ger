@@ -1,0 +1,5 @@
+name: P6 helper
+description: Custom functionalities for P6.
+core: 8.x
+package: Project6
+type: module
